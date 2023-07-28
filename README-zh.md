@@ -4,7 +4,7 @@ A simple restart plugin for LiteLoaderBDS ScriptEngine
 
 ## 用法
 
-将所有文件放入BDS所在文件夹，然后运行`run.bat`来启动服务器  
+将ScheduledRestart文件夹中的所有文件放入BDS所在文件夹，然后运行`run.bat`来启动服务器  
 默认重启时间: 两小时  
 如果你想要停止服务器，请按键盘上的`Ctrl + C`
 
